@@ -1,0 +1,3 @@
+need to review documentation markup, review it
+to delete a branch, switch to another then run, git branch -d name
+to reset a branch run, git reset --hard HEAD. I it will take the branch back to the original
