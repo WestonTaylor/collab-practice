@@ -1,0 +1,15 @@
+.nav{
+    background-color: red;
+}
+.left{
+    background-color: blue;
+}
+.right{
+    background-color: yellow;
+}
+.footer{
+    background-color: green;
+}
+.row{
+    border: 2px dashed black;
+}
