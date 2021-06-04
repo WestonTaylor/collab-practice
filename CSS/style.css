@@ -13,3 +13,12 @@
 .row{
     border: 2px dashed black;
 }
+ul{
+    list-style-type: none;
+}
+@media screen and (min-width:1024px) {
+    header {
+        background-color: lavender ;
+        color: magenta;
+    }
+} 
